@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "serve": "json-server --watch db.json"
+    "serve": "json-server --watch db.json --host www.bamofy.krabu.tech --port 3001"
   },
   "author": "",
   "license": "ISC",
